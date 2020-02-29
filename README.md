@@ -23,21 +23,43 @@ processo e, eventualmente, pode se tornar um cacique. A segunda
 diferença é que esta escolha não é realizada por eleição e nem considera
 fatores hereditários. Surpreendentemente, os Apiaka’s escolhem seu líder
 em uma espécie de sorteio, seguindo os passos descritos:
+
+
+
 Passo 1) Todos os candidatos a cacique são dispostos em um círculo
 e numerados de 1 a N em sentido horário, todos em pé;
+
+
+
+
 Passo 2) O atual cacique escolhe um número, que será utilizado
 como “salto”;
+
+
+
 Passo 3) O cacique inicia a contagem a partir do candidato 1 e segue
 em sentido horário contando cada indivíduo até que o número seja igual
 ao “salto” atribuído, então ele encosta a mão no ombro do respectivo
 candidato, que deve sentar-se;
+
+
+
 Passo 4) O processo de contagem se inicia no próximo indivíduo
 seguindo o sentido horário e que esteja em pé;
+
+
+
 Passo 5) Somente os candidatos que estão em pé são considerados
 na contagem do “salto”;
+
+
+
 Passo 6) O processo é encerrado somente quando restar apenas um
 único indivíduo em pé, não importa quantas voltas o cacique tenha que
 efetuar repetindo os passos 4 e 5;
+
+
+
 Passo 7) O candidato que permanecer em pé ao final do processo é
 escolhido como o novo cacique dos Apiaka’s.
 
