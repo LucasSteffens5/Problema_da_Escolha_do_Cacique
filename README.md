@@ -1,3 +1,70 @@
+# Cacique's problem
+
+Manipulation of circular list in C, solving the problem of the choice of chiefs.
+
+
+In Brazil, there are still many indigenous peoples with little contact
+with the globalized society. Apiaka’s are one of these people.
+Originally, they inhabited regions in the states of Mato Grosso and
+Pará. Subsequently, they were displaced to an indigenous reserve in the
+municipality of Juara-MT and, in 1989, the municipality of Apiacas was created in
+Mato Grosso. Since then, they have tried to restructure their tribal life.
+Initially, the Apiaka’s vied for territory with the Mundurukus,
+Kayabis and Rikbatsa, but only had their population drastically
+reduced with the exploration of some economic activities (gold mining,
+rubber extraction, etc.) on their land. This happened in such a way that
+in 1989 its population was estimated to be only 43 people. In 2009,
+thanks to the reserve, its population has grown to approximately 1000
+people.
+A very curious fact about this people and that calls a lot
+attention of village visitors concerns their choice process
+of leaders. There are two major differences with regard to what is done in
+other tribes. First, any member of the tribe can participate in the
+process and eventually can become a chief. The second
+difference is that this choice is not made by election nor does it consider
+hereditary factors. Surprisingly, Apiaka’s choose their leader
+in a sort of drawing, following the steps described:
+
+
+
+Step 1) All candidates for chief are arranged in a circle
+and numbered from 1 to N clockwise, all standing;
+
+
+
+
+Step 2) The current chieftain chooses a number, which will be used
+like "jump";
+
+
+
+Step 3) The chief starts counting from candidate 1 and follows
+clockwise counting each individual until the number is equal
+to the assigned “jump”, then he puts his hand on the shoulder of the respective
+candidate, who must sit down;
+
+
+
+Step 4) The counting process starts at the next individual
+following the clockwise direction and standing up;
+
+
+
+Step 5) Only standing candidates are considered
+counting the “jump”;
+
+
+
+Step 6) The process is terminated only when only one remains
+single standing person, no matter how many turns the chief has to
+perform by repeating steps 4 and 5;
+
+
+
+Step 7) The candidate who remains standing at the end of the process is
+chosen as the new chief of Apiaka’s.
+
+
 # Problema_da_Escolha_do_Cacique
 Manipulação de lista circular em C, resolvendo o problema da escolha dos caciques.
 
